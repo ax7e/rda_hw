@@ -1,0 +1,6 @@
+.coursier/*
+.github/*
+.idea/*
+build/*
+out/*
+test_run_dir/*
